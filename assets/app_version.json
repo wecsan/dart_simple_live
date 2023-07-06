@@ -1,7 +1,7 @@
 {
-    "version": "1.1.1",
-    "version_num": 10101,
-    "version_desc": "1. 支持抖音直播平台\n2. 新增定时关闭功能\n3. 修复一些BUG",
+    "version": "2.1.1",
+    "version_num": 20101,
+    "version_desc": "1. 支持抖音直播平台\n2. 新增定时关闭功能\n3. 修复一些BUG龙敏",
     "prerelease":false,
     "download_url": "https://github.com/xiaoyaocz/dart_simple_live/releases"
 }
