@@ -1,7 +1,7 @@
 {
-    "version": "6.1.1",
-    "version_num": 60101,
-    "version_desc": "1. 支持抖音直5播平台\n2. 新增定时关闭功能\n3. 修复一些BUG龙敏",
+    "version": "8.1.1",
+    "version_num": 80101,
+    "version_desc": "1. 支持抖8音直5播平台\n2. 新增定时关闭功能\n3. 修复一些BUG龙敏",
     "prerelease":false,
     "download_url": "https://github.com/xiaoyaocz/dart_simple_live/releases"
 }
