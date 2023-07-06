@@ -72,7 +72,7 @@ packages:
       sha256: bf80fcfb46a29945b423bd9aad884590fb1dc69b330a4d4700cac476af1708d1
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "1.1.1"
+    version: "2.1.1"
   build_daemon:
     dependency: transitive
     description:
@@ -144,7 +144,7 @@ packages:
       sha256: cb6d7f03e1de671e34607e909a7213e31d7752be4fb66a86d29fe1eb14bfb5cf
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "1.1.1"
+    version: "2.1.1"
   code_builder:
     dependency: transitive
     description:
@@ -1146,7 +1146,7 @@ packages:
       sha256: e4506d60b7244251bc59df15656a3093501c37fb5af02105a944d73eb95be4c9
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "1.1.1"
+    version: "2.1.1"
   xdg_directories:
     dependency: transitive
     description:
